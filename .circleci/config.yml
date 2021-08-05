@@ -4,7 +4,7 @@ orbs:
   slack: circleci/slack@3.4.2
 
 references:
-  images:
+  images:kk
     middleman: &MIDDLEMAN_IMAGE docker.mirror.hashicorp.services/hashicorp/middleman-hashicorp:0.3.44
 
 executors:
